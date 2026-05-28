@@ -1,11 +1,11 @@
-# Hi, I'm Krish!
+# Hi, I'm Krish 👋
 
-AI-focused developer building full-stack apps, intelligent workflows, and modern web experiences.
+I'm a Second-year Computer Science student at Texas A&M University passionate about AI, full-stack development, and building scalable software products.
 
 ### Tech
-Python • TypeScript • React • Next.js • FastAPI • LangChain • LangGraph • OpenAI APIs
+Python • TypeScript • React • Next.js • FastAPI 
 
 ### Interests
 AI Agents • Automation • Product Engineering • Startups
 
-Currently building AI-powered tools and exploring scalable agent systems.
+Currently building AI-powered tools and exploring intelligent workflow systems.
